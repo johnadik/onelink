@@ -45,5 +45,11 @@
       "label": "Document"
     }
   ],
-
+  "socialLinks": [
+    {
+      "icon": "Facebook",
+      "href": "#",
+      "label": "Facebook"
+    }
+  ]
 }
