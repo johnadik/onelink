@@ -1,0 +1,95 @@
+{
+  "profile": {
+    "name": "Sarah Anderson",
+    "title": "Digital Creator & Web Developer",
+    "image": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=400&h=400&fit=crop"
+  },
+  "footer": {
+    "copyright": "© 2024 Sarah Anderson. All rights reserved.",
+    "additionalText": ""
+  },
+  "links": [
+    {
+      "text": "My Website",
+      "href": "https://google.com",
+      "icon": "Globe",
+      "status": "active",
+      "label": "Personal"
+    },
+    {
+      "text": "Amazon wishlist",
+      "href": "https://drive.google.com",
+      "icon": "ShoppingCart",
+      "status": "active",
+      "label": "Shopping"
+    },
+    {
+      "text": "React JS course",
+      "href": "#",
+      "icon": "Atom",
+      "status": "active",
+      "label": "Education"
+    },
+    {
+      "text": "Donate for our cause",
+      "href": "#",
+      "icon": "Heart",
+      "status": "active",
+      "label": "Charity"
+    },
+    {
+      "text": "Download my resume",
+      "href": "#",
+      "icon": "FileText",
+      "status": "active",
+      "label": "Document"
+    }
+  ],
+  "socialLinks": [
+    {
+      "icon": "Facebook",
+      "href": "#",
+      "label": "Facebook"
+    },
+    {
+      "icon": "Twitter",
+      "href": "#",
+      "label": "Twitter"
+    },
+    {
+      "icon": "Instagram",
+      "href": "#",
+      "label": "Instagram"
+    },
+    {
+      "icon": "Send",
+      "href": "#",
+      "label": "Telegram"
+    },
+    {
+      "icon": "Apple",
+      "href": "#",
+      "label": "WhatsApp"
+    },
+    {
+      "icon": "Youtube",
+      "href": "#",
+      "label": "YouTube"
+    },
+    {
+      "icon": "Mail",
+      "href": "#",
+      "label": "Email"
+    },
+    {
+      "icon": "Github",
+      "href": "#",
+      "label": "Github"
+    },
+    {
+      "icon": "Linkedin",
+      "href": "#",
+      "label": "LinkedIn"
+    }
+  ]
+}
