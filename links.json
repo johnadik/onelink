@@ -45,51 +45,5 @@
       "label": "Document"
     }
   ],
-  "socialLinks": [
-    {
-      "icon": "Facebook",
-      "href": "#",
-      "label": "Facebook"
-    },
-    {
-      "icon": "Twitter",
-      "href": "#",
-      "label": "Twitter"
-    },
-    {
-      "icon": "Instagram",
-      "href": "#",
-      "label": "Instagram"
-    },
-    {
-      "icon": "Send",
-      "href": "#",
-      "label": "Telegram"
-    },
-    {
-      "icon": "Apple",
-      "href": "#",
-      "label": "WhatsApp"
-    },
-    {
-      "icon": "Youtube",
-      "href": "#",
-      "label": "YouTube"
-    },
-    {
-      "icon": "Mail",
-      "href": "#",
-      "label": "Email"
-    },
-    {
-      "icon": "Github",
-      "href": "#",
-      "label": "Github"
-    },
-    {
-      "icon": "Linkedin",
-      "href": "#",
-      "label": "LinkedIn"
-    }
-  ]
+
 }
