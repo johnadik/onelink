@@ -19,9 +19,9 @@
     {
       "text": "Laporan Hujan",
       "href": "https://drive.google.com",
-      "icon": "ShoppingCart",
+      "icon": "CloudRain",
       "status": "active",
-      "label": "Shopping"
+      "label": "Bulanan"
     },
     {
       "text": "React JS course",
