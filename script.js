@@ -1,6 +1,5 @@
 async function fetchLinks() {
-  const url =
-    "https://script.google.com/macros/s/AKfycbwwm_BxA-Q7Bi7cBp_-gPLhhsYliGFpiG5eu0RIDBt9qruLkXWs7nogt7IzhYxwux-sww/exec"; // Ganti dengan URL Web App anda
+  const url = 'https://bold-queen-621b.uncle.workers.dev/'; // Ganti dengan URL Cloudflare Worker anda
   const linksContainer = document.getElementById("links-container");
 
   if (!linksContainer) {
@@ -9,19 +8,22 @@ async function fetchLinks() {
   }
 
   try {
+    console.log("Fetching data from:", url);
     const response = await fetch(url, {
       method: "GET",
-      mode: "cors", // Pastikan mod CORS diaktifkan
+      mode: "cors",
       headers: {
         Accept: "application/json",
       },
     });
 
+    console.log("Response status:", response.status);
     if (!response.ok) {
       throw new Error(`HTTP error! status: ${response.status}`);
     }
 
     const data = await response.json();
+    console.log("Fetched data:", data);
     linksContainer.innerHTML = "";
 
     if (data.values && Array.isArray(data.values)) {
