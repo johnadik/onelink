@@ -8,7 +8,7 @@
     "copyright": "© 2025 Akmal. All rights reserved.",
     "additionalText": ""
   },
-"links": [
+  "links": [
     {
       "text": "Laporan Baja Harian",
       "href": "https://felcra365-my.sharepoint.com/:x:/g/personal/wan_akmal_felcra_com_my/EalN_BeO-AZLjKCB0ATHBNQBNH4-qlwTlIBU2-P2qm5avA?e=YPfjqJ",
@@ -16,8 +16,8 @@
       "status": "danger",
       "label": "Harian",
       "tutorial": "https://raw.githubusercontent.com/johnadik/onelink/main/tutorial-baja.md",
-      "active":"on",
-      "noti":""
+      "active": "on",
+      "noti": ""
     },
     {
       "text": "Laporan Bpms/Fizikal (P&P/Estet)",
@@ -26,8 +26,8 @@
       "status": "default",
       "label": "Bulanan",
       "tutorial": "https://raw.githubusercontent.com/johnadik/onelink/main/tutorial.md",
-      "active":"off",
-      "noti":"link ditutup sementaran waktu"
+      "active": "off",
+      "noti": "link ditutup sementaran waktu"
     },
     {
       "text": "Laporan Hujan Bulanan (P&p/Estet)",
@@ -36,8 +36,8 @@
       "status": "default",
       "label": "Bulanan",
       "tutorial": "https://raw.githubusercontent.com/johnadik/onelink/main/tutorial.md",
-      "active":"off",
-      "noti":"link ditutup sementaran waktu"
+      "active": "off",
+      "noti": "link ditutup sementaran waktu"
     },
     {
       "text": "Laporan Mekanisasi",
@@ -46,8 +46,8 @@
       "status": "default",
       "label": "Bualanan",
       "tutorial": "https://raw.githubusercontent.com/johnadik/onelink/main/tutorial.md",
-      "active":"off",
-      "noti":"link ditutup sementaran waktu"
+      "active": "off",
+      "noti": "link ditutup sementaran waktu"
     },
     {
       "text": "Laporan Biji Lerai",
@@ -56,8 +56,8 @@
       "status": "default",
       "label": "Bulanan",
       "tutorial": "https://raw.githubusercontent.com/johnadik/onelink/main/tutorial.md",
-      "active":"off",
-      "noti":"link ditutup sementaran waktu"
+      "active": "off",
+      "noti": "link ditutup sementaran waktu"
     }
   ],
   "socialLinks": [
