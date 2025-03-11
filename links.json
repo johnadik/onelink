@@ -15,7 +15,7 @@
       "icon": "Flame",
       "status": "danger",
       "label": "Harian",
-      "tutorial": "https://raw.githubusercontent.com/johnadik/onelink/main/tutorial-baja.md",
+      "tutorial": "https://cdn.jsdelivr.net/gh/johnadik/onelink@main/tutorial/baja/baja.md",
       "active": "on",
       "noti": ""
     },
