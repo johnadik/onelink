@@ -42,8 +42,8 @@
     {
       "text": "Laporan Mekanisasi",
       "href": "#",
-      "icon": "Heart",
-      "status": "active",
+      "icon": "Tractor",
+      "status": "default",
       "label": "Bualanan",
       "tutorial": "https://raw.githubusercontent.com/johnadik/onelink/main/tutorial.md",
       "active":"off",
@@ -52,8 +52,8 @@
     {
       "text": "Laporan Biji Lerai",
       "href": "#",
-      "icon": "FileText",
-      "status": "active",
+      "icon": "Grape",
+      "status": "default",
       "label": "Bulanan",
       "tutorial": "https://raw.githubusercontent.com/johnadik/onelink/main/tutorial.md",
       "active":"off",
