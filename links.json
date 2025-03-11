@@ -13,7 +13,7 @@
       "text": "Laporan Baja Harian",
       "href": "https://felcra365-my.sharepoint.com/:x:/g/personal/wan_akmal_felcra_com_my/EalN_BeO-AZLjKCB0ATHBNQBNH4-qlwTlIBU2-P2qm5avA?e=YPfjqJ",
       "icon": "Flame",
-      "status": "active",
+      "status": "danger",
       "label": "Harian"
     },
     {
@@ -27,7 +27,7 @@
       "text": "React JS course",
       "href": "#",
       "icon": "Atom",
-      "status": "active",
+      "status": "",
       "label": "Education"
     },
     {
