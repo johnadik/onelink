@@ -12,11 +12,11 @@
     {
       "text": "Laporan Baja Harian",
       "href": "https://felcra365-my.sharepoint.com/:x:/g/personal/wan_akmal_felcra_com_my/EalN_BeO-AZLjKCB0ATHBNQBNH4-qlwTlIBU2-P2qm5avA?e=YPfjqJ",
-      "icon": "Flame", // https://lucide.dev
-      "status": "danger", // active, danger, alert, default
-      "label": "Harian", // harian atau bulanan
+      "icon": "Flame",
+      "status": "danger",
+      "label": "Harian",
       "tutorial": "https://raw.githubusercontent.com/johnadik/onelink/main/tutorial-baja.md",
-      "active":"on", // on,off
+      "active":"on",
       "noti":""
     },
     {
