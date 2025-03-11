@@ -1,4 +1,4 @@
-ChatGPT: 
+Akmal: 
 
 Untuk menukar format jadual asal kepada format yang diinginkan menggunakan **Power Query** , ikuti langkah berikut:**Langkah 1: Import Data ke Power Query**  
 1. Pilih **table**  yang mengandungi data asal.
